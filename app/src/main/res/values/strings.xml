@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WheaterApp</string>
+    <string name="title_activity_maps">Wheater Nearby</string>
+    <string name="open_weather_key">df7fabbfda8b954b457dbb4d5b205fc5</string>
+</resources>

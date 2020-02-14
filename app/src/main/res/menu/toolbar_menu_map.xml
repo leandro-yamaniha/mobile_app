@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item_menu_Scale_Map"
+        android:title=""
+        app:showAsAction="always"
+        />
+    <item
+        android:id="@+id/item_menu_Celsius_Map"
+        android:title="Celsius"/>
+    <item
+        android:id="@+id/item_menu_Fahrenhiet_Map"
+        android:title="Fahrenheit" />
+    <item
+        android:id="@+id/item_menu_Kelvin_Map"
+        android:title="Kelvin" />
+    <item
+        android:id="@+id/imList"
+        android:icon="@drawable/ic_list"
+        android:title="Home"
+        app:showAsAction="always"
+        />
+</menu>
